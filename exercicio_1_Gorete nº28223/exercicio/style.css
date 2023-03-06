@@ -29,3 +29,19 @@ body{
     font-weight: bold;
     border: 0cm;
 }
+.card {
+    flex-direction: row;
+
+  }
+  .card img {
+    width: 40%;
+    padding: 10px;
+    border-radius:30px
+  }
+  .row{
+    padding: 250px;
+  }
+
+  button:hover{
+    background-color:#ecbd87;
+  }
